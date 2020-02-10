@@ -142,7 +142,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
+Distributed under the MPL-2.0 License. See `LICENSE` for more information.
 
 
 
