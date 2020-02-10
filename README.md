@@ -144,7 +144,10 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MPL-2.0 License. See `LICENSE` for more information.
 
+<!-- CODE OF CONDUCT -->
+## Code of Conduct
 
+[We follow these community guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 <!-- CONTACT -->
 ## Contact
