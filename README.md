@@ -41,7 +41,7 @@
     <br />
     <a href="https://github.com/nyu-ossd-s20/dropmoji">View Demo</a>
     ·
-    <a href="https://github.com/nyu-ossd-s20/dropmoji/issues">dropmojirt Bug</a>
+    <a href="https://github.com/nyu-ossd-s20/dropmoji/issues">dropmoji Bug</a>
     ·
     <a href="https://github.com/nyu-ossd-s20/dropmoji/issues">Request Feature</a>
   </p>
@@ -102,7 +102,7 @@ See the [open issues](https://github.com/nyu-ossd-s20/dropmoji/issues) for a lis
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
