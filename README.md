@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nyu-ossd-s20/dropmoji">
-    <img src="images/dropmoji.png" alt="Logo" width="80" height="80">
+    <img src="images/dropmoji.png" alt="Logo" width="700">
   </a>
 
   <h3 align="center">dropmoji</h3>
