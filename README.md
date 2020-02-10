@@ -85,6 +85,34 @@ Now you'll never have to google, copy, and paste for ASCII emojis again.
 
 To get a local copy up and running follow these simple steps.
 
+### Development/Contribution Environment
+
+**Install nodejs**
+```sh
+# If using Ubuntu
+curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+**Install npm**
+```sh
+sudo apt-get install npm
+```
+**Install web-ext***
+```sh
+npm install --global web-ext
+web-ext --version
+```
+**Clone the repository**
+```sh
+https://github.com/nyu-ossd-s20/dropmoji.git
+```
+
+**Test it out**
+```sh
+cd dropmoji/src
+web-ext run
+```
+
 ### Installation
 
 _Coming Soon!_

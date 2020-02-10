@@ -1,0 +1,19 @@
+{
+
+  "manifest_version": 2,
+  "name": "dropmoji",
+  "version": "0.1",
+
+  "description": "Displays a search bar with which you can find ASCII emojis using keywords and add it to your text",
+  "homepage_url": "https://github.com/nyu-ossd-s20/dropmoji",
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_title": "dropmoji",
+    "default_popup": "popup/dropmoji.html"
+  }
+
+}
