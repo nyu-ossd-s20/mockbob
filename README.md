@@ -23,9 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,10 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">dropmoji</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    A browser extension to get you that wild emoji, instantenously.
     <br />
     <a href="https://github.com/nyu-ossd-s20/dropmoji"><strong>Explore the docs »</strong></a>
     <br />
@@ -124,18 +121,18 @@ Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Nishant Aswani](https://github.com/niniack)
-[Amad Ansari](https://github.com/amad-a)
-[Charles Thomas](https://github.com/Charleshthomasiii)
+* [Nishant Aswani](https://github.com/niniack)
+* [Amad Ansari](https://github.com/amad-a)
+* [Charles Thomas](https://github.com/Charleshthomasiii)
 
 Project Link: [https://github.com/nyu-ossd-s20/dropmoji](https://github.com/nyu-ossd-s20/dropmoji)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements
 
 * []()
 * []()
-* []()
+* []() -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
