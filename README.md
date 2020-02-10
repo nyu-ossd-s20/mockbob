@@ -164,14 +164,14 @@ Project Link: [https://github.com/nyu-ossd-s20/dropmoji](https://github.com/nyu-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/nyu-ossd-s20/dropmoji.svg?style=flat-square
 [contributors-url]: https://github.com/nyu-ossd-s20/dropmoji/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/nyu-ossd-s20/dropmoji.svg?style=flat-square
 [forks-url]: https://github.com/nyu-ossd-s20/dropmoji/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/nyu-ossd-s20/dropmoji.svg?style=flat-square
 [stars-url]:https://github.com/nyu-ossd-s20/dropmoji/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/nyu-ossd-s20/dropmoji.svg?style=flat-square
 [issues-url]: https://github.com/nyu-ossd-s20/dropmoji/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/nyu-ossd-s20/dropmoji.svg?style=flat-square
 [license-url]: https://github.com/nyu-ossd-s20/dropmoji/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
