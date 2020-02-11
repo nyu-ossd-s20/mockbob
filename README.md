@@ -34,7 +34,7 @@
   <h3 align="center">mockbob</h3>
 
   <p align="center">
-    A browser extension to get you that wild emoji, instantenously.
+    Make your website more tasteful with a single click
     <br />
     <a href="https://github.com/nyu-ossd-s20/mockbob"><strong>Explore the docs »</strong></a>
     <br />
