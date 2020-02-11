@@ -6,6 +6,33 @@
  
 function listenForClicks() {
   console.log("testing");
+  document.getElementById("reset").addEventListener("click", (e) => {
+    function mockbob(tabs) {
+      let send= "refresh";
+       browser.tabs.sendMessage(tabs[0].id, {
+         command: send,
+       });   
+       window.close();
+     }
+   /**
+     * Just log the error to the console.
+     */
+    function reportError(error) {
+      console.error(`Could not mockbob: ${error}`);
+    }
+
+    /**
+     * Get the active tab,
+     * then call "mockbob()" or "reset()" as appropriate.
+     */
+    browser.tabs.query({
+        active: true,
+        currentWindow: true
+      })
+      .then(mockbob)
+      .catch(reportError);
+  });
+  
   document.getElementById("mockbob").addEventListener("click", (e) => {
     /**
      * Insert the page-hiding CSS into the active tab,
@@ -27,6 +54,7 @@ function listenForClicks() {
      */
     function reportError(error) {
       console.error(`Could not mockbob: ${error}`);
+      window.close();
     }
 
     /**
@@ -51,6 +79,7 @@ function reportExecuteScriptError(error) {
   document.querySelector("#error-content").classList.remove("hidden");
   console.error(`Failed to execute mockbob content script: ${error.message}`);
 }
+
 
 /**
  * When the popup loads, inject a content script into the active tab,

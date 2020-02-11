@@ -5,14 +5,22 @@
   window.hasRun = true;
   browser.runtime.onMessage.addListener((message) => {
     let message_text=message.command.toString();
-    mocker('p',message_text);
-    mocker('a',message_text);
-    mocker('h1',message_text);
-    mocker('h2',message_text);
-    mocker('h3',message_text);
-    mocker('h4',message_text);
-    mocker('h5',message_text);
-    img_flipper();
+    console.log(message_text);
+    if (message_text == "refresh"){
+      console.log("true");
+      location.reload();
+    }
+    else{
+      mocker('p',message_text);
+      mocker('a',message_text);
+      mocker('h1',message_text);
+      mocker('h2',message_text);
+      mocker('h3',message_text);
+      mocker('h4',message_text);
+      mocker('h5',message_text);
+      img_flipper();
+    }
+
 
   });
 
