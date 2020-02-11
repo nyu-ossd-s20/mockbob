@@ -31,17 +31,17 @@
     <img src="images/mockbob.png" alt="Logo" width="500">
   </a>
 
-  <h3 align="center">mocbob</h3>
+  <h3 align="center">mockbob</h3>
 
   <p align="center">
     A browser extension to get you that wild emoji, instantenously.
     <br />
-    <a href="https://github.com/nyu-ossd-s20/mocbob"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nyu-ossd-s20/mockbob"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/nyu-ossd-s20/mockbob">View Demo</a>
     ·
-    <a href="https://github.com/nyu-ossd-s20/mocbob/issues">mockbob Bug</a>
+    <a href="https://github.com/nyu-ossd-s20/mockbob/issues">mockbob Bug</a>
     ·
     <a href="https://github.com/nyu-ossd-s20/mockbob/issues">Request Feature</a>
   </p>
