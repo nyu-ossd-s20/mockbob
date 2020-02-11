@@ -1,13 +1,13 @@
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the dropmoji and create a pull request or simply open
+*** make this better, please fork the repository and create a pull request or simply open
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** nyu-ossd-s20, dropmoji, twitter_handle, email
+*** nyu-ossd-s20, repository, twitter_handle, email
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -27,23 +27,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/nyu-ossd-s20/dropmoji">
-    <img src="images/dropmoji.png" alt="Logo" width="700">
+  <a href="https://github.com/nyu-ossd-s20/mockbob">
+    <img src="images/mockbob.png" alt="Logo" width="500">
   </a>
 
-  <h3 align="center">dropmoji</h3>
+  <h3 align="center">mockbob</h3>
 
   <p align="center">
-    A browser extension to get you that wild emoji, instantenously.
+    Make your website more tasteful with a single click
     <br />
-    <a href="https://github.com/nyu-ossd-s20/dropmoji"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nyu-ossd-s20/mockbob"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/nyu-ossd-s20/dropmoji">View Demo</a>
+    <a href="https://github.com/nyu-ossd-s20/mockbob">View Demo</a>
     ·
-    <a href="https://github.com/nyu-ossd-s20/dropmoji/issues">dropmoji Bug</a>
+    <a href="https://github.com/nyu-ossd-s20/mockbob/issues">mockbob Bug</a>
     ·
-    <a href="https://github.com/nyu-ossd-s20/dropmoji/issues">Request Feature</a>
+    <a href="https://github.com/nyu-ossd-s20/mockbob/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,9 +70,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Dropmoji is there to help you access the wildest ASCII emojis instantaneously. Want that table flip emoji? One click and done.
-
-Now you'll never have to google, copy, and paste for ASCII emojis again.
+Mockbob is here to help you literally make anything sound like satire. Wanna make your school website less boring? One click and done.
 
 <!-- ### Built With
 
@@ -97,19 +95,19 @@ sudo apt-get install -y nodejs
 ```sh
 sudo apt-get install npm
 ```
-**Install web-ext***
+**Install web-ext**
 ```sh
 npm install --global web-ext
 web-ext --version
 ```
 **Clone the repository**
 ```sh
-https://github.com/nyu-ossd-s20/dropmoji.git
+https://github.com/nyu-ossd-s20/mockbob.git
 ```
 
 **Test it out**
 ```sh
-cd dropmoji/src
+cd mockbob/src
 web-ext run
 ```
 
@@ -125,7 +123,7 @@ _Coming Soon!_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/nyu-ossd-s20/dropmoji/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/nyu-ossd-s20/mockbob/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -156,7 +154,7 @@ Distributed under the MPL-2.0 License. See `LICENSE` for more information.
 * [Amad Ansari](https://github.com/amad-a)
 * [Charles Thomas](https://github.com/Charleshthomasiii)
 
-Project Link: [https://github.com/nyu-ossd-s20/dropmoji](https://github.com/nyu-ossd-s20/dropmoji)
+Project Link: [https://github.com/nyu-ossd-s20/mockbob](https://github.com/nyu-ossd-s20/mockbob)
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements
@@ -167,12 +165,12 @@ Project Link: [https://github.com/nyu-ossd-s20/dropmoji](https://github.com/nyu-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/nyu-ossd-s20/dropmoji.svg?style=flat-square
-[contributors-url]: https://github.com/nyu-ossd-s20/dropmoji/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nyu-ossd-s20/dropmoji.svg?style=flat-square
-[forks-url]: https://github.com/nyu-ossd-s20/dropmoji/network/members
-[stars-shield]: https://img.shields.io/github/stars/nyu-ossd-s20/dropmoji.svg?style=flat-square
-[stars-url]:https://github.com/nyu-ossd-s20/dropmoji/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/nyu-ossd-s20/mockbob.svg?style=flat-square
+[contributors-url]: https://github.com/nyu-ossd-s20/mockbob/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nyu-ossd-s20/mockbob.svg?style=flat-square
+[forks-url]: https://github.com/nyu-ossd-s20/mockbob/network/members
+[stars-shield]: https://img.shields.io/github/stars/nyu-ossd-s20/mockbob.svg?style=flat-square
+[stars-url]:https://github.com/nyu-ossd-s20/mockbob/stargazers
 [issues-shield]: https://img.shields.io/github/issues/nyu-ossd-s20/dropmoji.svg?style=flat-square
 [issues-url]: https://github.com/nyu-ossd-s20/dropmoji/issues
 [license-shield]: https://img.shields.io/github/license/nyu-ossd-s20/dropmoji.svg?style=flat-square
