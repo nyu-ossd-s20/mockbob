@@ -43,7 +43,7 @@ function mocker(tag, text) {
   }
   else{
     for (let i = 0; i < all_p_tags.length; i++) {
-      if (all_p_tags[i].innerHTML.indexOf(text) != -1) {
+      if (all_p_tags[i].innerHTML.toUpperCase().indexOf(text.toUpperCase()) != -1) {
         // console.log(all_p_tags[i].innerHTML);
         let array_of_chars = all_p_tags[i].innerHTML.split('');
         for (var j = 0; j < array_of_chars.length; j++) {
