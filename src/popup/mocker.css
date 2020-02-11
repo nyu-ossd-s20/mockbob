@@ -1,31 +1,8 @@
 html, body {
-    width: 100px;
+    height: 200px;
+    width: 400px;
   }
-  
+
   .hidden {
     display: none;
-  }
-  
-  .button {
-    margin: 3% auto;
-    padding: 4px;
-    text-align: center;
-    font-size: 1.5em;
-    cursor: pointer;
-  }
-  
-  .mocker:hover {
-    background-color: #CFF2F2;
-  }
-  
-  .mocker {
-    background-color: #E5F2F2;
-  }
-  
-  .reset {
-    background-color: #FBFBC9;
-  }
-  
-  .reset:hover {
-    background-color: #EAEA9D;
   }
