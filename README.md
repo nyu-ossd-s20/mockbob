@@ -68,7 +68,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### Before
+![original](images/original_web.png)
+
+### After
+![mocked](images/mocked_web.png)
 
 Mockbob is here to help you literally make anything sound like satire. Wanna make your school website less boring? One click and done.
 
