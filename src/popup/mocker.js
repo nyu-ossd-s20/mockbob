@@ -3,17 +3,22 @@
  * the content script in the page.
  */
 
+ 
 function listenForClicks() {
-  document.addEventListener("click", (e) => {
+  console.log("testing");
+  document.getElementById("mockbob").addEventListener("click", (e) => {
     /**
      * Insert the page-hiding CSS into the active tab,
      * then get the mock URL and
      * send a "mockbob" message to the content script in the active tab.
      */
     function mockbob(tabs) {
+     let send= document.getElementsByName('selector')[0].value;
       browser.tabs.sendMessage(tabs[0].id, {
-        command: "mockbob",
+        command: send,
       });
+      console.log(document.getElementsByName('selector')[0].value )
+      
     }
 
 
