@@ -5,9 +5,7 @@
   window.hasRun = true;
   browser.runtime.onMessage.addListener((message) => {
     let message_text=message.command.toString();
-    console.log(message_text);
     if (message_text == "refresh"){
-      console.log("true");
       location.reload();
     }
     else{
@@ -31,14 +29,10 @@ function mocker(tag, text) {
   if (text === "") {
     for (let i = 0; i < all_p_tags.length; i++) {
       if (all_p_tags[i].innerHTML.indexOf('NYU') != -1 || all_p_tags[i].innerHTML.indexOf('New York University') != -1) {
-        // console.log(all_p_tags[i].innerHTML);
         let array_of_chars = all_p_tags[i].innerHTML.split('');
         for (var j = 0; j < array_of_chars.length; j++) {
-          // console.log( all_p_tags[i].innerHTML.charAt(j));
           if (array_of_chars[j] == '\xa0') {
-            //do nothing
             array_of_chars[j] = array_of_chars[j];
-
           } else if (Math.random() > 0.75) {
             array_of_chars[j] = array_of_chars[j].toUpperCase();
           } else {
@@ -52,14 +46,10 @@ function mocker(tag, text) {
   else{
     for (let i = 0; i < all_p_tags.length; i++) {
       if (all_p_tags[i].innerHTML.toUpperCase().indexOf(text.toUpperCase()) != -1) {
-        // console.log(all_p_tags[i].innerHTML);
         let array_of_chars = all_p_tags[i].innerHTML.split('');
         for (var j = 0; j < array_of_chars.length; j++) {
-          // console.log( all_p_tags[i].innerHTML.charAt(j));
           if (array_of_chars[j] == '\xa0') {
-            //do nothing
             array_of_chars[j] = array_of_chars[j];
-
           } else if (Math.random() > 0.75) {
             array_of_chars[j] = array_of_chars[j].toUpperCase();
           } else {

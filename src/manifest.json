@@ -5,7 +5,7 @@
     "version": "1.0",
   
     "description": "Adds a browser action icon to the toolbar. Click the button to replace all sentences that contain the text NYU with mockbob text.",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "homepage_url": "https://github.com/nyu-ossd-s20/mockbob/",
     "icons": {
       "48": "icons/mockbob.jpg"
     },
