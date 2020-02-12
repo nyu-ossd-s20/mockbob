@@ -46,6 +46,11 @@ function mocker(tag, text) {
   else{
     for (let i = 0; i < all_p_tags.length; i++) {
       if (all_p_tags[i].innerHTML.toUpperCase().indexOf(text.toUpperCase()) != -1) {
+        all_p_tags[i].style.fontFamily = "Impact";
+        all_p_tags[i].style.color = "White";
+        all_p_tags[i].style.fontSize = "x-large";
+        all_p_tags[i].style.textShadow = "-2px 0 black, 0 2px black, 2px 0 black, 0 -2px black";
+       
         let array_of_chars = all_p_tags[i].innerHTML.split('');
         for (var j = 0; j < array_of_chars.length; j++) {
           if (array_of_chars[j] == '\xa0') {
