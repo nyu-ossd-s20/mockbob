@@ -117,12 +117,12 @@ web-ext run
 
 ### Installation
 
-_Coming Soon!_
+Under the "Clone or Download" dropdown menu, click "Download ZIP" and extract it. Unzip the file. Then, enter about:debugging#/runtime/this-firefox in your URL bar. Press the "Load Temporary Add-on..." button, and select any file from the extension to load it into Firefox.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_Coming Soon!_
+Press the Mockbob icon in your extension bar on Firefox. Enter any text to search the current tab. If mockbob finds this text in the webpage you are on, it will turn the header, paragraph, or link the text is contained in into Mocking Spongebob text!
 
 <!-- ROADMAP -->
 ## Roadmap
