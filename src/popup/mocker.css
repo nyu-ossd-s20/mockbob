@@ -11,6 +11,8 @@ html, body {
   .btn-violet{
     color: white !important;
     background-color:#8900e1 !important;
+    font-family: Impact, Charcoal ,sans-serif;
+    text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
   }
 
   div::after {
